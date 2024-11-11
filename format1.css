@@ -1,0 +1,40 @@
+
+	   .myHeader{
+		 background-color:skyblue;
+         color:violet;		 
+		   
+	}
+ 
+       .firstDiv{
+		 color:green;
+		 text-indent:50px;
+		 text-align:left;
+	   }   
+	   
+	   p.setP{
+		color:violet;
+        background-color:yellow;
+       }	   
+	   
+	   a:link{
+		  color:blueviolet;
+	   }
+	   
+	   a:hover{
+		   color:green;
+	   }
+	   
+	   a:active{
+		   color:blue;
+	   }
+	   
+	   a:visited {
+		   color:orange;
+	   }
+		
+	  #para1{
+		  text-align:center;
+		  color:red;
+	  }
+	  
+	  

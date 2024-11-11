@@ -1,0 +1,17 @@
+table {
+	height:10px;
+    width:10px;
+	background-color:white;
+	border-collapse:collapse;
+
+}
+
+th, td{
+    border:2px solid red;
+    padding:5px;
+}
+
+.rep1{
+	font-weight:bold;
+	color:red;
+	font-size:20px;
